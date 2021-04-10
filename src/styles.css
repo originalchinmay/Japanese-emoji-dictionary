@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+:root {
+  --background-color: #eee0ff;
+}
+body {
+  background-color: var(--background-color);
+}
+
+input {
+  width: 90%;
+  margin: auto;
+  padding: 1rem;
+  border-radius: 0.6rem;
+}
